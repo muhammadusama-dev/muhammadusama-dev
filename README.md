@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Muhammad Usama</h1>
 
 <p align="center">
-  Full-Stack Engineer at <strong>M TECHUB LLC</strong>  
+  CTO & Seasonal Full-Stack Engineer at <strong>M TECHUB LLC</strong>  
   React Native • Node.js • AI Agents • System Integrations  
 </p>
 
@@ -13,7 +13,7 @@ My work spans **mobile apps, backend systems, cloud infrastructure, and AI-drive
 I focus on writing reliable code, solving real problems, and shipping fast with quality.
 
 - 🌍 Based in Islamabad, Pakistan  
-- 💼 Full-Stack Engineer @ M TECHUB LLC  
+- 💼 CTO & Seasonal Full-Stack Engineer @ M TECHUB LLC  
 - ⚡ Specialized in React Native, Node.js & AI integrations  
 - 🤝 Open to collaborations on mobile apps, SaaS, and AI systems  
 - 📧 Email: developer1.mtechub@gmail.com  
@@ -22,6 +22,7 @@ I focus on writing reliable code, solving real problems, and shipping fast with 
 ---
 
 ## 🚀 Tech Stack  
+
 ### **Mobile Development**
 - React Native, Expo, Zustand, Redux Toolkit  
 - Reanimated, Gesture Handler, Firebase  
